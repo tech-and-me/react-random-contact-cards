@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-random-contact-cards/static/css/main.6edfd565.css",
+    "main.js": "/react-random-contact-cards/static/js/main.849aed4f.js",
+    "index.html": "/react-random-contact-cards/index.html",
+    "main.6edfd565.css.map": "/react-random-contact-cards/static/css/main.6edfd565.css.map",
+    "main.849aed4f.js.map": "/react-random-contact-cards/static/js/main.849aed4f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6edfd565.css",
+    "static/js/main.849aed4f.js"
+  ]
+}
